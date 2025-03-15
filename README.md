@@ -21,7 +21,7 @@ ProyectoReservaCoworking/
 │── WEB-INF/
 │   ├── web.xml
 │── db/
-│   ├── reservas.sql (Opcional)
+│   ├── reservas.sql
 │── README.md
 
 
